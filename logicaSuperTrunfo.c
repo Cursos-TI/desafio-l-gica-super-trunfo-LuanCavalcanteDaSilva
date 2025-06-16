@@ -10,7 +10,7 @@ int main(){
     char codigo_2[20] = "B02";
     char nome_cidade_1[50] = "Florianopolis";
     char nome_cidade_2[50] = "Sao Paulo";
-    int num_pontos_turisticos_1 = 15, num_pontos_turisticos_2 = 15;
+    int num_pontos_turisticos_1 = 42, num_pontos_turisticos_2 = 15;
     float area_1 = 675.410;
     float area_2 = 1521.202;
     float pib_1 = 21312446;
